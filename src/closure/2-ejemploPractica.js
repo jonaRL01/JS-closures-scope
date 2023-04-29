@@ -18,9 +18,3 @@ _usuario231001(102);
 _usuario231001(201);
 _usuario231001(302);
 
-
-// EJEMPLO: 
-
-const moneyBox = (){
-    
-};
